@@ -61,4 +61,4 @@ if nr_letters.isnumeric() and (nr_symbols.isnumeric()) and (nr_numbers.isnumeric
     else:
         print("Sorry, your input is grater than dimension of my capacity.")
 else:
-    print("Sorry, your input is uncorrected. I need tree numbers.")
+    print("Sorry, your input is uncorrected. I need three numbers.")
